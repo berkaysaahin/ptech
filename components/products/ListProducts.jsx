@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import CustomPagination from "../layouts/CustomPagination";
 import Filters from "../layouts/Filters";
 
