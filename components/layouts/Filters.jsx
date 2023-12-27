@@ -119,7 +119,7 @@ const Filters = () => {
                 defaultChecked={checkHandler("category", "Electronics")}
                 onClick={(e) => handleClick(e.target)}
               />
-              <span className="ml-2 text-gray-500"> Electronics </span>
+              <span className="ml-2 text-gray-500"> Television </span>
             </label>
           </li>
           <li>
@@ -145,7 +145,7 @@ const Filters = () => {
                 defaultChecked={checkHandler("category", "Toys")}
                 onClick={(e) => handleClick(e.target)}
               />
-              <span className="ml-2 text-gray-500"> Toys </span>
+              <span className="ml-2 text-gray-500"> Smart Watch </span>
             </label>
           </li>
           <li>
@@ -158,7 +158,7 @@ const Filters = () => {
                 defaultChecked={checkHandler("category", "Office")}
                 onClick={(e) => handleClick(e.target)}
               />
-              <span className="ml-2 text-gray-500"> Office </span>
+              <span className="ml-2 text-gray-500"> Phone </span>
             </label>
           </li>
           <li>
@@ -171,7 +171,7 @@ const Filters = () => {
                 defaultChecked={checkHandler("category", "Beauty")}
                 onClick={(e) => handleClick(e.target)}
               />
-              <span className="ml-2 text-gray-500"> Beauty </span>
+              <span className="ml-2 text-gray-500"> HeadPhone </span>
             </label>
           </li>
         </ul>

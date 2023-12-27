@@ -31,7 +31,7 @@ const Header = () => {
           <div className="flex-shrink-0 mr-5">
             <a href="/">
               <Image
-                src="/images/logo.png"
+                src="/images/logo192.png"
                 height="40"
                 width="120"
                 alt="BuyItNow"
