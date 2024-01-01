@@ -40,7 +40,7 @@ const Footer = () => {
             </div>
             <div className="col-6 col-md-4">
               <h6 className="text-uppercase font-weight-bold">
-                <a href="#!" className="text-black">Hakkımızda</a>
+                <a href="/hakkimizda" className="text-black">Hakkımızda</a>
               </h6>
             </div>
             <div className="col-md-2">
